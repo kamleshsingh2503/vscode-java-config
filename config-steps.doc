@@ -10,15 +10,15 @@
   3 - export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
   
 - install visual studio code, ignore if you have already installed it on your pc
-   - follow steps on this url - https://linuxize.com/post/how-to-install-visual-studio-code-on-debian-10/
+  4 - follow steps on this url - https://linuxize.com/post/how-to-install-visual-studio-code-on-debian-10/
 
 - Set Java.home in vscode
-  - View -> Command pallette - > enter 'settings' and select 'Open Settings (JSON)'
-  - paste  -> "java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
+  5 - View -> Command pallette - > enter 'settings' and select 'Open Settings (JSON)'
+  6 - paste  -> "java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
   
 - Install extensions
- - on extension tab enter Java Extension Pack and install it
- - Spring boot initializer
+  7 - on extension tab enter Java Extension Pack and install it
+  8 - Spring boot initializer
  
  
  
