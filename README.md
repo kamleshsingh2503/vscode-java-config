@@ -20,15 +20,15 @@
   - on extension tab enter Java Extension Pack and install it
   - Spring boot initializer
 
-  - Once done, clone the project from repo and load it and run 
+- Once done, clone the project from repo and load it and run 
 
-  - For Angular, you need to set up node and npm on your system and install angular
+- For Angular, you need to set up node and npm on your system and install angular
 
-  - Follow steps : https://nodesource.com/blog/installing-node-js-tutorial-debian-linux/
+- Follow steps : https://nodesource.com/blog/installing-node-js-tutorial-debian-linux/
 
-  - run command to install angular -- npm install -g @angular/cli
+- run command to install angular -- npm install -g @angular/cli
 
-  - clone angular project and load it and run command npm start from project folder
+- clone angular project and load it and run command npm start from project folder
 
 
  
