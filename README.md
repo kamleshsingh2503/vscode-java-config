@@ -13,7 +13,7 @@
   - follow steps on this url - https://linuxize.com/post/how-to-install-visual-studio-code-on-debian-10/
 
 - Set Java.home in vscode
-  - View -> Command pallette - > enter 'settings' and select 'Open Settings (JSON)'
+  - View -> Command pallette - > type 'settings' and select 'Open Settings (JSON)'
   - paste  -> "java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
   
 - Install extensions
